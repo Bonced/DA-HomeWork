@@ -1,7 +1,0 @@
-D:\My Projects\03_13\HomeTask2\bin\Debug\HomeTask2.exe.config
-D:\My Projects\03_13\HomeTask2\bin\Debug\HomeTask2.exe
-D:\My Projects\03_13\HomeTask2\bin\Debug\HomeTask2.pdb
-D:\My Projects\03_13\HomeTask2\obj\Debug\HomeTask2.csproj.AssemblyReference.cache
-D:\My Projects\03_13\HomeTask2\obj\Debug\HomeTask2.csproj.CoreCompileInputs.cache
-D:\My Projects\03_13\HomeTask2\obj\Debug\HomeTask2.exe
-D:\My Projects\03_13\HomeTask2\obj\Debug\HomeTask2.pdb
